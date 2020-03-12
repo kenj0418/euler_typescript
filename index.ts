@@ -1,8 +1,8 @@
-import { Euler } from "./euler1x/Euler13";
+import { Euler } from "./euler8x/Euler81";
 
 const start = new Date().getTime();
 
-Euler.run();
+new Euler().run();
 
 const end = new Date().getTime();
 console.log(`Elapsed time: ${end - start} ms`);
