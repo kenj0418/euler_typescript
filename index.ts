@@ -1,4 +1,4 @@
-import { Euler } from "./euler8x/Euler81";
+import { Euler } from "./euler1x/Euler19";
 
 const start = new Date().getTime();
 
